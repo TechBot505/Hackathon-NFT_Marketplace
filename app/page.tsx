@@ -46,24 +46,6 @@ const featuredCollections = [
   },
 ];
 
-const createSellImages = [
-  {
-    id: 1,
-    image:
-      "https://img.freepik.com/premium-vector/robot-character-nft-artwork-pixel-art-vector-illustration_153454-1339.jpg",
-  },
-  {
-    id: 2,
-    image:
-      "https://img.freepik.com/premium-vector/cute-robot-with-camera-pixel-art-style_534389-262.jpg",
-  },
-  {
-    id: 3,
-    image:
-      "https://img.freepik.com/premium-vector/anime-boy-character-nft-pixel-art-illustration_621218-374.jpg",
-  },
-];
-
 const topSellers = [
   {
     id: 1,
